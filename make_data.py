@@ -1,10 +1,11 @@
+import os
 from datetime import time
 from pathlib import Path
 
 from googlemaps import Client
 from requests_html import HTMLSession
 
-gmaps = Client(key="AIzaSyDr7db_xqI9M5Cz3lx3EWsfgpiySAbVt3k")
+gmaps = Client(key=os.environ['GOOGLE_API_KEY'])
 
 def get_distance(
     gmaps: Client,
