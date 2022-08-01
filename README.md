@@ -1,2 +1,5 @@
-# best-restaurants-in-atl
-Atlanta Magazine's 75 best restaurants guide, canonicalized and augmented with driving/biking time to my dorm building
+# 75 Best Restaurants in Atlanta
+
+[Atlanta Magazine's website](https://www.atlantamagazine.com/50bestrestaurants/), scraped and augmented to be more useful for Georgia Tech students living in dorms.
+
+Result hosted here: https://chinarjoshi.com/blog/best-restaurants-in-atl.
