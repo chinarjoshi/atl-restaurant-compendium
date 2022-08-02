@@ -1,6 +1,6 @@
 # The Best Restaurants of Atlanta
 
-From someone who lives to eat, here is a database of expert reccomended restaurants, comprising of [Atlanta Eater's top 38](https://atlanta.eater.com/maps/38-best-restaurants-in-atlanta), [Atlanta Eats Midtown Bucket list](https://www.atlantaeats.com/blog/midtown-atlanta-restaurant-bucket-list/), and [Atlanta Magazine's top 75](https://www.atlantamagazine.com/50bestrestaurants/).
+From someone who lives to eat, here is a [database](compendium.csv](https://github.com/chinarjoshi/atl-restaurant-compendium/blob/main/compendium.csv) of expert reccomended restaurants, comprising of [Atlanta Eater's top 38](https://atlanta.eater.com/maps/38-best-restaurants-in-atlanta), [Atlanta Eats Midtown Bucket list](https://www.atlantaeats.com/blog/midtown-atlanta-restaurant-bucket-list/), and [Atlanta Magazine's top 75](https://www.atlantamagazine.com/50bestrestaurants/).
 
 The columns labels are as follows:
 * 'name' (str): Name of the restaurant
